@@ -1,0 +1,11 @@
+{
+  "name": "ramen_map_backend",
+  "version": "1.0.0",
+  "description": "A serverless function that retrieves data for the Ramen Map frontend.",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "author": "Khalid M. Richards",
+  "license": "ISC"
+}
